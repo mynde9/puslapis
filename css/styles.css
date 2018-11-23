@@ -1,0 +1,165 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto;
+}
+
+.container {
+    width: 716px;
+    margin: auto;
+}
+
+.content {
+    width: 716px;
+    height: 20px;
+}
+
+.cont {
+    width: 716px;
+    height: 15px;
+}
+
+.foot {
+    width: 716px;
+    height: 43px;
+}
+
+.info p {
+    display: inline-block;
+    width: 230px;
+    height: 163px;
+    background-color: #ffffff;
+    margin: 3px;
+    font-family: Tahoma;
+
+}
+
+.head {
+    display: block;
+    width: 716px;
+    height: 75px;
+    margin: auto;
+}
+
+.head p {
+    text-align: center;
+    padding: 20px;
+    font-size: xx-large;
+}
+
+.text {
+    width: 716px;
+    display: block;
+    background-color: #ffffff;
+    margin: auto;
+    height: 269px;
+}
+
+.text p {
+    width: 461px;
+    font-size: 12px;
+    height: 80px;
+    margin-left: 10px;
+}
+
+
+.text h1 {
+    margin-left: 15px;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.header {
+    background-color: #ffffff;
+    width: 716px;
+    margin: auto;
+}
+
+.line  {
+    height: 14px;
+    width: 716px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.header-image {
+    width: 716px;
+    height: 295px;
+    background-color: #9fbc2e;
+    margin: auto;
+}
+
+.header-image p {
+    text-align: center;
+    padding: 130px;
+    color: white;
+    font-size: xx-large;
+}
+
+.menu {
+    width: 716px;
+    height: 50px;
+    background-color: #152733;
+    margin: auto;
+}
+
+.menu ul {
+    float: left;
+}
+
+.menu ul li {
+    color: white;
+    display: inline-block;
+    line-height: 48px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.menu li {
+    line-height: 48px;
+}
+
+.navigation ul {
+    float: left;
+}
+
+.navigation ul li {
+    display: block;
+    margin-left: 5px;
+    cursor: pointer;
+    font-family: Tahoma;
+}
+
+.navigation li{
+    line-height: 15px;
+}
+
+.gallery {
+    display: block;
+    width: 721px;
+    height: 112px;
+    margin: auto;
+}
+
+.footer {
+    width: 720px;
+    height: 49px;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+.navigation {
+    display: block;
+    width: 218px;
+    height: 202px;
+    background-color: #e8e8e8;
+    float: right;
+    margin-top: 57px;
+    margin-right: 15px;
+}
+
+.fot {
+    float: right;
+    color: #95c879;
+    margin-right: 10px;
+}
